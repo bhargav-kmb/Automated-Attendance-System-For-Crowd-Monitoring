@@ -114,14 +114,12 @@ Traditional approaches fail to generalize across scenarios, resulting in inaccur
 4. Open the frontend: Navigate to the React.js project directory and run `npm start`
 
 
-## License
-[MIT License](LICENSE)
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/harinivas-28/count-app.git
+    git clone https://github.com/bhargav-kmb/Automated-Attendance-System-For-Crowd-Monitoring.git
     ```
 2. Navigate to the project directory:
     ```sh
